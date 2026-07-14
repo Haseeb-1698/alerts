@@ -1,0 +1,43 @@
+name: Daily Upskill Dashboard Refresh
+
+on:
+  schedule:
+    # 03:00 UTC = 08:00 Asia/Karachi. Regenerates README.md's daily picks.
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}   # allow manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate dashboard
+        run: python3 generate_dashboard.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Haseeb-1698"
+          git config user.email "i221698@nu.edu.pk"
+          if git diff --quiet README.md; then
+            echo "No changes to README.md today."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "Daily dashboard refresh $(date -u +%Y-%m-%d)"
+          # Rebase on any concurrent change (e.g. the job-alert routine) before pushing.
+          git pull --rebase origin main
+          git push origin HEAD:main
