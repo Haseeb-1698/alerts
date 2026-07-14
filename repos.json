@@ -1,0 +1,76 @@
+{
+  "anchors": [
+    {
+      "name": "farhanashrafdev/90DaysOfCyberSecurity",
+      "url": "https://github.com/farhanashrafdev/90DaysOfCyberSecurity",
+      "cat": "Study Plan",
+      "gain": "A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.",
+      "time": "90 days (do 1 topic/day)",
+      "level": "Beginner to Intermediate"
+    },
+    {
+      "name": "swisskyrepo/PayloadsAllTheThings",
+      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "cat": "Offensive Reference",
+      "gain": "The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.",
+      "time": "Lifelong reference (1 class/day)",
+      "level": "Intermediate"
+    },
+    {
+      "name": "requie/AI-Red-Teaming-Guide",
+      "url": "https://github.com/requie/AI-Red-Teaming-Guide",
+      "cat": "AI Security (YOUR GAP)",
+      "gain": "The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.",
+      "time": "1-2 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "cat": "Two-for-one",
+      "gain": "817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.",
+      "time": "Ongoing reference",
+      "level": "Intermediate"
+    }
+  ],
+  "daily_pool": [
+    {"name": "projectdiscovery/nuclei", "url": "https://github.com/projectdiscovery/nuclei", "cat": "Offensive", "gain": "Industry-standard vulnerability scanner. The real skill is writing your own YAML templates — a genuinely valued, resume-worthy ability. Spend a session writing one custom template for a known CVE.", "time": "1 evening", "level": "Intermediate"},
+    {"name": "mxrch/GHunt", "url": "https://github.com/mxrch/GHunt", "cat": "OSINT", "gain": "Offensive Google-account OSINT framework. Great hands-on OSINT practice — the exact recon/OSINT phase the TISS Pentest Trainee posting lists. Run it against a throwaway account you control.", "time": "1-2 hours", "level": "Beginner"},
+    {"name": "laramies/theHarvester", "url": "https://github.com/laramies/theHarvester", "cat": "OSINT", "gain": "Classic recon tool: emails, subdomains, hostnames. Foundational for the reconnaissance stage of any pentest. Learn the flags, run it on a domain you own.", "time": "1 hour", "level": "Beginner"},
+    {"name": "lissy93/web-check", "url": "https://github.com/lissy93/web-check", "cat": "OSINT", "gain": "All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.", "time": "1-2 hours", "level": "Beginner"},
+    {"name": "qeeqbox/social-analyzer", "url": "https://github.com/qeeqbox/social-analyzer", "cat": "OSINT", "gain": "Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.", "time": "1 hour", "level": "Beginner"},
+    {"name": "promptfoo/promptfoo", "url": "https://github.com/promptfoo/promptfoo", "cat": "AI Security", "gain": "Purpose-built to red-team/pentest LLMs, RAGs and agents. This is the tool you'd use to attack your own Fathom project. Set up one config and run adversarial tests against a prompt.", "time": "1 evening", "level": "Intermediate"},
+    {"name": "usestrix/strix", "url": "https://github.com/usestrix/strix", "cat": "AI Security", "gain": "Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.", "time": "1 evening", "level": "Advanced"},
+    {"name": "vxcontrol/pentagi", "url": "https://github.com/vxcontrol/pentagi", "cat": "AI Security", "gain": "Fully autonomous AI agents that perform penetration testing. Read the design; it's the frontier of where your Fathom-style work could go next.", "time": "Half day", "level": "Advanced"},
+    {"name": "joey-melo/payloads", "url": "https://github.com/joey-melo/payloads", "cat": "AI Security", "gain": "A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.", "time": "1-2 hours", "level": "Intermediate"},
+    {"name": "OpenCTI-Platform/opencti", "url": "https://github.com/OpenCTI-Platform/opencti", "cat": "Threat Intel", "gain": "The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.", "time": "Half day", "level": "Intermediate"},
+    {"name": "fastfire/deepdarkCTI", "url": "https://github.com/fastfire/deepdarkCTI", "cat": "Threat Intel", "gain": "Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.", "time": "1 hour", "level": "Beginner"},
+    {"name": "google/magika", "url": "https://github.com/google/magika", "cat": "Malware/Forensics", "gain": "AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.", "time": "1-2 hours", "level": "Intermediate"},
+    {"name": "amlweems/xzbot", "url": "https://github.com/amlweems/xzbot", "cat": "Malware/RE", "gain": "Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.", "time": "Half day", "level": "Advanced"},
+    {"name": "aquasecurity/trivy", "url": "https://github.com/aquasecurity/trivy", "cat": "DevSecOps", "gain": "Scans containers/IaC/code for vulns, misconfigs and secrets. Plugs straight into your Bytewise DevSecOps experience — add it to a CI pipeline and screenshot the findings.", "time": "1 evening", "level": "Intermediate"},
+    {"name": "trufflesecurity/trufflehog", "url": "https://github.com/trufflesecurity/trufflehog", "cat": "DevSecOps", "gain": "Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.", "time": "1-2 hours", "level": "Intermediate"},
+    {"name": "bridgecrewio/checkov", "url": "https://github.com/bridgecrewio/checkov", "cat": "DevSecOps", "gain": "IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.", "time": "1-2 hours", "level": "Intermediate"},
+    {"name": "DataDog/stratus-red-team", "url": "https://github.com/DataDog/stratus-red-team", "cat": "Cloud Offensive", "gain": "Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.", "time": "Half day", "level": "Advanced"},
+    {"name": "imthenachoman/How-To-Secure-A-Linux-Server", "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server", "cat": "Hardening", "gain": "The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.", "time": "1 weekend", "level": "Intermediate"},
+    {"name": "metlo-labs/metlo", "url": "https://github.com/metlo-labs/metlo", "cat": "API Security", "gain": "Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.", "time": "Half day", "level": "Intermediate"},
+    {"name": "arch3rPro/Pentest-Windows", "url": "https://github.com/arch3rPro/Pentest-Windows", "cat": "Offensive", "gain": "A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.", "time": "1 evening", "level": "Intermediate"},
+    {"name": "apurvsinghgautam/robin", "url": "https://github.com/apurvsinghgautam/robin", "cat": "AI + OSINT", "gain": "AI-powered dark-web OSINT tool. Combines your two biggest star clusters — AI agents + threat intel. Study how it drives OSINT with an LLM.", "time": "1-2 hours", "level": "Intermediate"},
+    {"name": "rasbt/LLMs-from-scratch", "url": "https://github.com/rasbt/LLMs-from-scratch", "cat": "AI Foundations", "gain": "Build a ChatGPT-like LLM in PyTorch step by step. Deepens the AI half of your AI-security identity — understanding LLM internals makes you far better at attacking/defending them.", "time": "2-3 weeks", "level": "Intermediate"},
+    {"name": "dair-ai/Prompt-Engineering-Guide", "url": "https://github.com/dair-ai/Prompt-Engineering-Guide", "cat": "AI Foundations", "gain": "Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.", "time": "3-4 days", "level": "Beginner"},
+    {"name": "microsoft/ai-agents-for-beginners", "url": "https://github.com/microsoft/ai-agents-for-beginners", "cat": "AI Agents", "gain": "18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.", "time": "2 weeks", "level": "Beginner"},
+    {"name": "jwasham/coding-interview-university", "url": "https://github.com/jwasham/coding-interview-university", "cat": "CS Foundations", "gain": "Complete CS study plan. Not security-specific, but strengthens the DSA/systems base that technical interviews (and harder security work) rest on. Dip in when you want fundamentals.", "time": "Long-term", "level": "Beginner"},
+    {"name": "codecrafters-io/build-your-own-x", "url": "https://github.com/codecrafters-io/build-your-own-x", "cat": "Build to Learn", "gain": "Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).", "time": "Per project", "level": "Intermediate"},
+    {"name": "iam-veeramalla/aws-devops-zero-to-hero", "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero", "cat": "Cloud/DevSecOps", "gain": "30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.", "time": "30 days", "level": "Beginner"},
+    {"name": "MatheuZSecurity/Singularity", "url": "https://github.com/MatheuZSecurity/Singularity", "cat": "Advanced RE", "gain": "A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.", "time": "Half day", "level": "Advanced"},
+    {"name": "Bert-JanP/Open-Source-Threat-Intel-Feeds", "url": "https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds", "cat": "Threat Intel", "gain": "Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.", "time": "1 evening", "level": "Beginner"}
+  ],
+  "tips": [
+    "Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.",
+    "Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.",
+    "Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.",
+    "Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.",
+    "Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.",
+    "Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.",
+    "Finish one thing today rather than starting three. A completed small project outranks three half-explored repos."
+  ]
+}
