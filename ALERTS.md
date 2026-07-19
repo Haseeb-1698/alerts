@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-07-19 - FPSC - QA Manager
+- Grade: PPS-07 to PPS-10 range (Project Pay Scale, at minimum equivalent to BPS-17; exact tier for this specific post not independently confirmed beyond the ad's overall range)
+- Location: Islamabad (F-5)
+- Deadline to apply: 27 July 2026
+- Qualification/experience: BS/MS in Computer Science, Software Engineering, IT or related field; requires 5 years of experience in software quality assurance including at least 2 years as QA lead — satisfies the "5 years or less" rule for non-PAEC organizations (sits exactly at the cap). Contract basis for FPSC's PSDP-funded "Digitalization of In-house Processes & Automation of Examination System" project (same advertisement as the previously logged Software Developer and Cyber Security Officer posts, but a distinct post title not yet logged).
+- Source: https://www.fpsc.gov.pk/uploads/content/1783678908692_Situation_Vacant_Readvertisement_FPSC_Project.pdf (also reported at https://propakistani.pk/2026/07/13/fpsc-announces-new-jobs-under-digitalization-project/)
+
+## 2026-07-19 - FPSC - QA Engineer
+- Grade: PPS-07 to PPS-10 range (Project Pay Scale, at minimum equivalent to BPS-17; exact tier for this specific post not independently confirmed beyond the ad's overall range)
+- Location: Islamabad (F-5)
+- Deadline to apply: 27 July 2026
+- Qualification/experience: BS/MS in Computer Science, Software Engineering, IT or related field; requires minimum 2 years of experience in software quality assurance — satisfies the "5 years or less" rule for non-PAEC organizations. Contract basis for FPSC's PSDP-funded "Digitalization of In-house Processes & Automation of Examination System" project (same advertisement as the previously logged Software Developer and Cyber Security Officer posts, but a distinct post title not yet logged).
+- Source: https://www.fpsc.gov.pk/uploads/content/1783678908692_Situation_Vacant_Readvertisement_FPSC_Project.pdf (also reported at https://propakistani.pk/2026/07/13/fpsc-announces-new-jobs-under-digitalization-project/)
+
 ## 2026-07-18 - FPSC - Software Developer
 - Grade: PPS-07 (Project Pay Scale, equivalent to BPS-17)
 - Location: Islamabad
