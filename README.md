@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 31 July 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 01 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,7 +9,7 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
@@ -21,25 +21,25 @@ Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it doe
 
 A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
 
-### 2. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-**AI Foundations**  ·  ⏱ 2-3 weeks  ·  📊 Intermediate
+### 2. [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+**AI + OSINT**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Build a ChatGPT-like LLM in PyTorch step by step. Deepens the AI half of your AI-security identity — understanding LLM internals makes you far better at attacking/defending them.
+AI-powered dark-web OSINT tool. Combines your two biggest star clusters — AI agents + threat intel. Study how it drives OSINT with an LLM.
 
-### 3. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
+### 3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+**AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
 
-Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
+Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-07-31 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-01 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
