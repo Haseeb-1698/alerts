@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-02 - careerjobs1737 (PAEC/NESCOM strategic front) - Assistant Manager (IT / Software)
+- Grade/Package: 'Assistant Manager' (~BPS-17-equivalent), Rs. 159,000/- per month approx.
+- Location: Not specified in ad (careerjobs1737 front — organization anonymized as "A Public Sector Organization")
+- Deadline to apply: 17 August 2026 (Public Notice 03/2026)
+- Qualification/experience: BCS / BIT / BSE (04-year degree, 1st Div, min 3.00/4.00 CGPA) or equivalent, OR MCS/MIT (1st Div) after 2-year bachelor's; only one 2nd Division allowed across entire academic career. No mandatory years-of-experience stated — experience/skills (IT troubleshooting, server/storage/virtualization, AD, DB admin, AI/LLM deployment, VMware/Kaspersky/QRadar etc.) are listed as preferences, not requirements, so this satisfies the "5 years or less" (effectively Nil) rule for non-PAEC strategic-front orgs. Direct title/qualification match for a BS Cyber Security fresh graduate.
+- Source: http://www.careerjobs1737.com/new-openings.jsp (apply at careerjobs1737.com/jobs); also reported at https://jobsalert.pk/careerjobs1737-com-jobs-apply-online/72207
+
 ## 2026-07-19 - FPSC - QA Manager
 - Grade: PPS-07 to PPS-10 range (Project Pay Scale, at minimum equivalent to BPS-17; exact tier for this specific post not independently confirmed beyond the ad's overall range)
 - Location: Islamabad (F-5)
