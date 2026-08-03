@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Sunday, 02 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Monday, 03 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
+> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [usestrix/strix](https://github.com/usestrix/strix)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
-
-Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
-
-### 2. [lissy93/web-check](https://github.com/lissy93/web-check)
+### 1. [mxrch/GHunt](https://github.com/mxrch/GHunt)
 **OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
 
-All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
+Offensive Google-account OSINT framework. Great hands-on OSINT practice — the exact recon/OSINT phase the TISS Pentest Trainee posting lists. Run it against a throwaway account you control.
 
-### 3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-**DevSecOps**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Scans containers/IaC/code for vulns, misconfigs and secrets. Plugs straight into your Bytewise DevSecOps experience — add it to a CI pipeline and screenshot the findings.
+Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
+
+### 3. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
+
+18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-02 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-03 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
