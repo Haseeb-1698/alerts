@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Tuesday, 04 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Wednesday, 05 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
+> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
-
-A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
-
-### 2. [google/magika](https://github.com/google/magika)
-**Malware/Forensics**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
-
-AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.
-
-### 3. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+### 1. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 **DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
 IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.
+
+### 2. [lissy93/web-check](https://github.com/lissy93/web-check)
+**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
+
+All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
+
+### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
+**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+
+Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-04 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-05 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
