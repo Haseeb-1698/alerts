@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-08 - careerjobs1737 (PAEC/NESCOM strategic front) - Assistant Manager (Computer Engg.)
+- Grade/Package: 'Assistant Manager' (~BPS-17-equivalent), Rs. 159,000/- per month approx.
+- Location: Not specified in ad (careerjobs1737 front — organization anonymized as "A Public Sector Organization"; post profile suggests NESCOM or a NESCOM-affiliated strategic org)
+- Deadline to apply: 17 August 2026 (Public Notice 03/2026 — same batch/closing date as the previously logged Assistant Manager (IT / Software) post, but a distinct post title/discipline not yet logged)
+- Qualification/experience: BE / B.Sc. (Engg.) (1st Div, min 3.00/4.00 CGPA) in Computer Engineering or MS / M.Sc. (Engg.) (1st Div) in a relevant field; only one 2nd Division allowed across entire academic career. Reported post-qualification experience for this discipline is Nil-to-3-years depending on source — either way it satisfies the "5 years or less" rule for non-PAEC strategic-front orgs. Computer Engineering is a strong adjacent match for a BS Cyber Security fresh graduate (distinct from the earlier-logged BCS/BIT/BSE-track IT/Software post in the same notice).
+- Source: http://www.careerjobs1737.com/new-openings.jsp (apply at careerjobs1737.com/jobs); corroborated via https://paperpk-jobs.com/careerjobs1737-jobs-2026/ and https://jobsalert.pk/careerjobs1737-com-jobs-apply-online/72207 . NOTE: direct WebFetch to careerjobs1737.com, jobsalert.pk, paperpk-jobs.com and most external sites was blocked by this session's network egress policy; details were corroborated via multiple independent WebSearch results rather than a direct primary-source fetch — re-verify exact post title/experience figure on the site before relying on this for application timing.
+
 ## 2026-08-02 - careerjobs1737 (PAEC/NESCOM strategic front) - Assistant Manager (IT / Software)
 - Grade/Package: 'Assistant Manager' (~BPS-17-equivalent), Rs. 159,000/- per month approx.
 - Location: Not specified in ad (careerjobs1737 front — organization anonymized as "A Public Sector Organization")
