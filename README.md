@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Sunday, 09 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Monday, 10 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
+> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 1. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
 
-IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.
+Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
 
-### 2. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
-**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+### 2. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+**AI Security**  ·  ⏱ 1 evening  ·  📊 Intermediate
 
-Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
+Purpose-built to red-team/pentest LLMs, RAGs and agents. This is the tool you'd use to attack your own Fathom project. Set up one config and run adversarial tests against a prompt.
 
-### 3. [usestrix/strix](https://github.com/usestrix/strix)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
+### 3. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
 
-Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
+18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-09 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-10 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
