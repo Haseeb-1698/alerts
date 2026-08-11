@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-11 - NACTA (National Counter Terrorism Authority) - Assistant Director
+- Grade: BPS-17 (04 posts), contract basis initially for 6 months, high potential for permanent absorption based on performance
+- Location: Islamabad (NACTA Headquarters)
+- Deadline to apply: 23 August 2026 (apply online via National Job Portal, www.njp.gov.pk; no manual/hard-copy applications accepted)
+- Qualification/experience: 16 years of education (Master's/BS-Hons) in International Relations, Peace & Conflict Studies, Strategic Studies, Media & Communication Studies, Cyber Security, AI, Data Science, Software Engineering, Computer Science, Information Security, or Digital Forensics — direct match to candidate's BS Cyber Security degree. Listed experience emphasis is on skills/knowledge areas (OSINT, SOCMINT, GEOINT, Threat Intelligence, Digital Investigations, Online Research, Analytical Reporting) rather than a stated minimum years-of-experience gate; no source found specifying a numeric years-of-experience requirement exceeding 5 years, so this satisfies the "5 years or less" rule for non-PAEC organizations. Re-verify the exact experience clause on njp.gov.pk before applying, since it was not independently confirmed beyond aggregator summaries.
+- Source: National Job Portal (www.njp.gov.pk, job listing referenced as njp.gov.pk/jobs/9587) — direct WebFetch to njp.gov.pk and nacta.gov.pk was blocked by this session's network egress policy; details corroborated via multiple independent WebSearch results (https://www.jobustad.com/national-counter-terrorism-authority-nacta-jobs-august-2026-advertisement) rather than a direct primary-source fetch.
+
 ## 2026-08-09 - Punjab Land Records Authority (PLRA) - Assistant Director, Infosec (Penetration Testing & Red Teaming)
 - Grade: 'Assistant Director' (PLRA contract scale, ~BPS-17-equivalent), Rs. 149,500 to ~400,000/- per month range depending on role/performance allowance
 - Location: PLRA Headquarters, Lahore (outside candidate's primary target cities, but flagged per profile allowance for "any genuinely BPS-17+ role he is plausibly eligible for")
