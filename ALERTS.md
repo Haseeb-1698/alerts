@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-12 - careerjobs2381 (PAEC strategic front) - Assistant Manager (Computer Engineering / Engineering disciplines)
+- Grade/Package: 'Assistant Manager' (~BPS-17-equivalent), reported ~8 posts, Rs. 130,000-140,000/- per month, contract basis (extendable on performance)
+- Location: Taxila / Karachi (Taxila is directly adjacent to candidate's home base of Wah Cantt)
+- Deadline to apply: 31 August 2026
+- Qualification/experience: BE / B.Sc. (Engg.) (1st Division) in Computer Engineering, Mechanical & Mechatronics, Electrical, Electronics, Metallurgy, Chemical, or Civil & Environmental Engineering. Front is corroborated as an "Atomic Energy" (PAEC) recruitment portal (PO Box 2381 GPO Islamabad) - per this watch's rule, PAEC postings QUALIFY REGARDLESS of years of experience required, so this qualifies even though some secondary sources cite a 4-5 years experience figure for the batch overall. Computer Engineering is a strong adjacent-discipline match for a BS Cyber Security fresh graduate, and the Taxila location is a direct geographic match.
+- Source: https://careerjobs2381.com.pk/ (apply online); corroborated via https://paperpk-jobs.com/careerjobs2381-jobs-2026/ and https://pakjobbazar.com/public-sector-organization-jobs-2025-online-apply/ . NOTE: direct WebFetch to careerjobs2381.com.pk and all secondary sources above was blocked by this session's network egress policy; details corroborated via multiple independent WebSearch results rather than a direct primary-source fetch — re-verify exact post title, discipline split and closing date on the site before relying on this for application timing.
+
+## 2026-08-12 - careerjobs2381 (PAEC strategic front) - IT (Oracle Developer)
+- Grade/Package: 'Assistant Manager'-tier IT post (~BPS-17-equivalent) on the same careerjobs2381 Public Notice batch as above
+- Location: Not independently confirmed for this specific post (front's batch is based Taxila / Karachi)
+- Deadline to apply: 31 August 2026 (same batch/closing date as the Assistant Manager (Computer Engineering) post above)
+- Qualification/experience: BCS / BIT / BS (4-year degree) or equivalent, or MCS/MIT after a 2-year Bachelor's; relevant experience in Oracle ERP, Oracle Database development, PL/SQL, SQL Developer, Forms and Reports "preferred" (not stated as a hard multi-year gate). Front corroborated as an "Atomic Energy" (PAEC) recruitment portal, so per this watch's rule this PAEC posting qualifies regardless of the exact experience figure. Direct IT/software discipline match for a BS Cyber Security fresh graduate, though the Oracle-specific stack is a narrower skills match than a general IT/Software post.
+- Source: https://careerjobs2381.com.pk/ (apply online); corroborated via https://paperpk-jobs.com/careerjobs2381-jobs-2026/ . NOTE: direct WebFetch to careerjobs2381.com.pk was blocked by this session's network egress policy; details corroborated via WebSearch only — re-verify exact qualification/experience wording and post title on the site before relying on this for application timing.
+
 ## 2026-08-11 - NACTA (National Counter Terrorism Authority) - Assistant Director
 - Grade: BPS-17 (04 posts), contract basis initially for 6 months, high potential for permanent absorption based on performance
 - Location: Islamabad (NACTA Headquarters)
