@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-13 - KP Safe Cities Project (ETEA) - Assistant Director Cyber Security
+- Grade: BPS-17 (04 posts)
+- Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
+- Deadline to apply: 20 August 2026
+- Qualification/experience: Bachelor's/Master's in Cyber Security, Information Security, IT or a related field; CEH/CISSP/CISM preferred (candidate holds adjacent eJPT/ISC2 CC/CRTOM/ISO 27001); requires at least 5 years of experience in cybersecurity roles — satisfies the "5 years or less" rule for non-PAEC organizations (sits exactly at the cap). Direct title/skills match for candidate's offensive-security/pentesting/forensics background, and Peshawar is one of the candidate's explicitly preferred cities.
+- Source: recruitment conducted via Educational Testing and Evaluation Agency (www.etea.edu.pk), announced by the Project Director, KP Safe Cities Project; corroborated via multiple independent WebSearch results (https://shakirjobs.com/kpk-safe-city-jobs, https://www.jobustad.com/kpk-safe-city-project-jobs-july-2026-advertisement). NOTE: direct WebFetch to etea.edu.pk and kp.gov.pk was blocked by this session's network egress policy; details corroborated via WebSearch only, not a direct primary-source fetch — re-verify exact post title, grade and deadline on etea.edu.pk before relying on this for application timing.
+
 ## 2026-08-12 - careerjobs2381 (PAEC strategic front) - Assistant Manager (Computer Engineering / Engineering disciplines)
 - Grade/Package: 'Assistant Manager' (~BPS-17-equivalent), reported ~8 posts, Rs. 130,000-140,000/- per month, contract basis (extendable on performance)
 - Location: Taxila / Karachi (Taxila is directly adjacent to candidate's home base of Wah Cantt)
