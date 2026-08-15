@@ -1,5 +1,33 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-15 - KP Safe Cities Project (ETEA) - Assistant Director Software
+- Grade: BPS-17
+- Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
+- Deadline to apply: 20 August 2026
+- Qualification/experience: BS/MS in Computer Science, Software Engineering, IT or related field; requires 4 years of experience — satisfies the "5 years or less" rule for non-PAEC organizations. Sibling post in the same ETEA advertisement as the already-logged Assistant Director Cyber Security post (same deadline/batch). Adjacent software/IT skills match for the candidate.
+- Source: WebSearch-corroborated only (shakirjobs.com, jobustad.com, eduvision.edu.pk summaries); direct WebFetch to etea.edu.pk and kp.gov.pk blocked by this session's network egress policy — re-verify exact experience figure on the primary ETEA advertisement before relying on this for application timing.
+
+## 2026-08-15 - KP Safe Cities Project (ETEA) - Assistant Director Network
+- Grade: BPS-17
+- Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
+- Deadline to apply: 20 August 2026
+- Qualification/experience: BS/MS in Computer Science, IT or related field; part of the same ETEA advertisement/batch as the already-logged Assistant Director Cyber Security post, whose group-level experience figure is reported around 4-5 years — satisfies the "5 years or less" rule for non-PAEC organizations (exact per-post figure not independently confirmed beyond the group figure). Network security is a strong adjacent match for the candidate's offensive-security/pentesting background.
+- Source: WebSearch-corroborated only (shakirjobs.com, jobustad.com, eduvision.edu.pk summaries); direct WebFetch to etea.edu.pk and kp.gov.pk blocked by this session's network egress policy — re-verify exact post experience figure on the primary ETEA advertisement before relying on this for application timing.
+
+## 2026-08-15 - KP Safe Cities Project (ETEA) - Assistant Director Systems
+- Grade: BPS-17
+- Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
+- Deadline to apply: 20 August 2026
+- Qualification/experience: BS/MS in Computer Science, IT or related field; part of the same ETEA advertisement/batch as the already-logged Assistant Director Cyber Security post, whose group-level experience figure is reported around 4-5 years — satisfies the "5 years or less" rule for non-PAEC organizations (exact per-post figure not independently confirmed beyond the group figure).
+- Source: WebSearch-corroborated only (shakirjobs.com, jobustad.com, eduvision.edu.pk summaries); direct WebFetch to etea.edu.pk and kp.gov.pk blocked by this session's network egress policy — re-verify exact post experience figure on the primary ETEA advertisement before relying on this for application timing.
+
+## 2026-08-15 - KP Safe Cities Project (ETEA) - Assistant Director Database
+- Grade: BPS-17
+- Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
+- Deadline to apply: 20 August 2026
+- Qualification/experience: BS/MS in Computer Science, IT or related field; part of the same ETEA advertisement/batch as the already-logged Assistant Director Cyber Security post, whose group-level experience figure is reported around 4-5 years — satisfies the "5 years or less" rule for non-PAEC organizations (exact per-post figure not independently confirmed beyond the group figure).
+- Source: WebSearch-corroborated only (shakirjobs.com, jobustad.com, eduvision.edu.pk summaries); direct WebFetch to etea.edu.pk and kp.gov.pk blocked by this session's network egress policy — re-verify exact post experience figure on the primary ETEA advertisement before relying on this for application timing.
+
 ## 2026-08-13 - KP Safe Cities Project (ETEA) - Assistant Director Cyber Security
 - Grade: BPS-17 (04 posts)
 - Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
