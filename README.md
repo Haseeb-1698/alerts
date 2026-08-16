@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Saturday, 15 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Sunday, 16 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
+> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [mxrch/GHunt](https://github.com/mxrch/GHunt)
-**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
+### 1. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+**AI Foundations**  ·  ⏱ 2-3 weeks  ·  📊 Intermediate
 
-Offensive Google-account OSINT framework. Great hands-on OSINT practice — the exact recon/OSINT phase the TISS Pentest Trainee posting lists. Run it against a throwaway account you control.
+Build a ChatGPT-like LLM in PyTorch step by step. Deepens the AI half of your AI-security identity — understanding LLM internals makes you far better at attacking/defending them.
 
-### 2. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
-**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
+### 2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
 
-A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
+18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
 
-### 3. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
+### 3. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
 
-Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
+30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-15 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-16 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
