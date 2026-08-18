@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Monday, 17 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Tuesday, 18 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
+> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
-**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
+### 1. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
+**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
 
-A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
+Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
 
-### 2. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
-**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 2. [lissy93/web-check](https://github.com/lissy93/web-check)
+**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
 
-Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
+All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
 
-### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
-**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+### 3. [laramies/theHarvester](https://github.com/laramies/theHarvester)
+**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
+Classic recon tool: emails, subdomains, hostnames. Foundational for the reconnaissance stage of any pentest. Learn the flags, run it on a domain you own.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-17 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-18 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
