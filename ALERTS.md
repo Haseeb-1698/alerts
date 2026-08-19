@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-19 - FPSC (Anti-Narcotics Force) - Assistant Director (Networking)
+- Grade: BS-17
+- Location: ANF Headquarters, Rawalpindi (possible posting to Regional Directorates: Karachi, Lahore, Peshawar, Quetta)
+- Deadline to apply: 31 August 2026
+- Qualification/experience: Second Class/Grade "C" Master's degree in Computer Science/IT or equivalent (HEC-recognized); requires 2 years post-qualification experience in Networking — satisfies the "5 years or less" rule for non-PAEC organizations. Direct network-engineering relevance to candidate's networking/offensive-security skill set; Rawalpindi is one of the candidate's explicitly preferred cities. Age limit 22-30 (+5 years general relaxation).
+- Source: FPSC Consolidated Advertisement No. 3/2026, Case No. F.4-173/2026-R (online.fpsc.gov.pk); corroborated via jobbazaar.info, careerjoin.com, hiringalert.co. NOTE: direct WebFetch to fpsc.gov.pk was blocked by this session's network egress policy; details corroborated via WebSearch only, not a direct primary-source fetch — re-verify case status on online.fpsc.gov.pk before relying on this for application timing.
+
 ## 2026-08-15 - KP Safe Cities Project (ETEA) - Assistant Director Software
 - Grade: BPS-17
 - Location: Peshawar (KP Safe Cities Project; candidates domiciled in Khyber Pakhtunkhwa / Merged Districts)
