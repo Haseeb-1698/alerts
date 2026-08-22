@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 21 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 22 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 1. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
 
-A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
+Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
 
-### 2. [usestrix/strix](https://github.com/usestrix/strix)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
+### 2. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
+**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
 
-Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
+Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
 
-### 3. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
 
-IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.
+The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-21 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-22 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
