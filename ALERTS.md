@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-23 - FPSC - Programmer
+- Grade: BS-17
+- Location: Not clearly stated in the advertisement (quota split Punjab=1, Sindh(Rural)=1 suggests a federal-cadre post; FPSC HQ Islamabad is typical for such posts)
+- Deadline to apply: 31 August 2026
+- Qualification/experience: Master's or Bachelor's (4-year) in Computer Science/Software Engineering/IT; per FPSC's standard Programmer eligibility profile, requires approximately 5 years of experience in programming/system analysis/software development — satisfies the "5 years or less" rule for non-PAEC organizations (sits exactly at the cap). Exact experience wording specific to this Case No. 61/2026 was not independently confirmed beyond FPSC's standard Programmer spec — re-verify on fpsc.gov.pk before relying on this for application timing. Part of FPSC Consolidated Advertisement No. 03/2026 (Case No. 61/2026), published 11 August 2026.
+- Source: https://vulearning.com/Jobs/Category/fpsc.aspx (FPSC Consolidated Advertisement No. 03/2026, Case No. 61/2026, www.fpsc.gov.pk); corroborated via https://gbcef.com/fpsc-jobs-2026-phase-3-advertisement-no-03-2026-apply-online/ and https://jobskiduniya.com/fpsc-consolidated-advertisement-no-03-2026/ . NOTE: direct WebFetch to fpsc.gov.pk and vulearning.com was blocked by this session's network egress policy; corroborated via WebSearch only, not a direct primary-source fetch.
+
+## 2026-08-23 - BISE Faisalabad (via Punjab Public Service Commission) - Computer Programmer
+- Grade: BS-17
+- Location: Faisalabad, Punjab (domicile: All Punjab basis; outside candidate's preferred cities but flagged per profile allowance for any genuinely BPS-17+ role he is plausibly eligible for)
+- Deadline to apply: 3 September 2026
+- Qualification/experience: M.Sc/BS (4-Years) Computer Science or equivalent degree with minimum 45% marks from an HEC-recognized institution, with 1 year practical experience of web programming/designing (Oracle/MS SQL RDBMS experience preferred) — comfortably satisfies the "5 years or less" rule for non-PAEC organizations. Direct programming/software title match for candidate's Python/development skill set. Recruited via Punjab Public Service Commission Advertisement No. 08/2026 (published ~18 August 2026), distinct from the lower-grade "Junior Computer Programmer" post in the same advertisement (not flagged, presumed below BPS-17).
+- Source: https://vulearning.com/JobsDetail/bise-faisalabad-jobs-2026-ppsc-apply-online-board-of-intermediate-and-secondary-education-318119.aspx ; corroborated via https://propakistani.pk/2026/08/18/ppsc-announces-government-jobs-across-punjab/ and https://www.jobbazaar.info/2026/08/latest-ppsc-jobs-2026-advertisement-no.html (apply at www.ppsc.gop.pk, PPSC Advertisement No. 08/2026). NOTE: direct WebFetch to vulearning.com and ppsc.gop.pk was blocked by this session's network egress policy; corroborated via WebSearch only, not a direct primary-source fetch.
+
 ## 2026-08-19 - FPSC (Anti-Narcotics Force) - Assistant Director (Networking)
 - Grade: BS-17
 - Location: ANF Headquarters, Rawalpindi (possible posting to Regional Directorates: Karachi, Lahore, Peshawar, Quetta)
