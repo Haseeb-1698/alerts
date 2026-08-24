@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-24 - NCCIA (National Cyber Crime Investigation Agency) - Assistant Director Forensic
+- Grade: BPS-17 (03 posts)
+- Location: Islamabad (NCCIA is a federal agency, successor to the FIA Cybercrime Wing; headquartered Islamabad, with regional offices nationwide)
+- Deadline to apply: 07 September 2026 (apply online via www.npftas.pk — National Police Foundation Testing & Assessment Service; Rs. 2000/- fee per post; test-based selection)
+- Qualification/experience: Bachelor's/Master's in Digital Forensics / Cyber Security / Computer Science / IT (HEC-recognized). Direct match to candidate's BS Cyber Security + digital-forensics skill set and eJPT/ISC2 CC/ISO 27001 certifications. Age limit 22-35 (+5 yrs relaxation). This is a large first-intake direct-recruitment drive (838 posts BPS-01 to BPS-18) for a newly established agency, selected by written test; sources emphasize age and education rather than a multi-year experience gate, so it plausibly satisfies the "5 years or less" rule for non-PAEC organizations — BUT the exact per-post years-of-experience figure was NOT independently confirmed. NOTE: direct WebFetch to npftas.pk, nccia.gov.pk and every aggregator was blocked by this session's network egress policy; details corroborated via WebSearch snippets only (opportunity.pk, jobbazaar.info, iwork4sindh.com.pk) — re-verify the exact experience requirement on the official npftas.pk advertisement before relying on this for application timing.
+- Source: https://www.npftas.pk (official apply portal); corroborated via https://www.jobbazaar.info/2026/08/nccia-jobs-2026-apply-online-at.html , https://opportunity.pk/nccia-jobs-2026/ , https://iwork4sindh.com.pk/nccia-recruitment-2026/
+
+## 2026-08-24 - NCCIA (National Cyber Crime Investigation Agency) - Assistant Director Investigation
+- Grade: BPS-17 (31 posts)
+- Location: Islamabad (NCCIA federal agency; regional offices nationwide)
+- Deadline to apply: 07 September 2026 (apply online via www.npftas.pk; Rs. 2000/- fee per post; test-based selection)
+- Qualification/experience: Bachelor's/Master's in Cyber Security / Computer Science / IT / Forensics or related (HEC-recognized) for the technical/investigation cadre. Strong match to candidate's BS Cyber Security + offensive-security/pentesting/forensics background. Age limit 22-35 (+5 yrs relaxation). Part of the same NCCIA first-intake direct-recruitment drive (838 posts) selected by written test; sources emphasize age/education rather than a multi-year experience gate, so it plausibly satisfies the "5 years or less" rule for non-PAEC organizations — exact per-post experience figure NOT independently confirmed. NOTE: direct WebFetch was blocked by this session's network egress policy; details corroborated via WebSearch snippets only — re-verify the exact experience requirement on the official npftas.pk advertisement before applying.
+- Source: https://www.npftas.pk (official apply portal); corroborated via https://www.jobbazaar.info/2026/08/nccia-jobs-2026-apply-online-at.html , https://opportunity.pk/nccia-jobs-2026/ , https://iwork4sindh.com.pk/nccia-recruitment-2026/
+
 ## 2026-08-23 - FPSC - Programmer
 - Grade: BS-17
 - Location: Not clearly stated in the advertisement (quota split Punjab=1, Sindh(Rural)=1 suggests a federal-cadre post; FPSC HQ Islamabad is typical for such posts)
