@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-08-27 - careerjobs2381 (PAEC strategic front) - IT (Cyber Security)
+- Grade/Package: 'Assistant Manager'-tier IT post (~BPS-17-equivalent) on the same careerjobs2381 Public Notice batch as the already-logged Assistant Manager (Computer Engineering) and IT (Oracle Developer) posts, Rs. 130,000-140,000/- per month, contract basis (extendable on performance)
+- Location: Taxila / Karachi (Taxila is directly adjacent to candidate's home base of Wah Cantt)
+- Deadline to apply: 31 August 2026
+- Qualification/experience: 4-year BCS / BIT / BSE degree or MCS/MIT (after 2-year Bachelor's), with knowledge of network security, penetration testing, programming (Python), and security frameworks like ISO 27001 — an exceptionally close direct match to the candidate's BS Cyber Security degree, offensive-security/pentesting skill set, Python proficiency, and ISO 27001 certification. Front is corroborated as an "Atomic Energy" (PAEC) recruitment portal (PO Box 2381 GPO Islamabad); per this watch's rule, PAEC postings qualify regardless of years of experience required, so this qualifies outright.
+- Source: https://careerjobs2381.com.pk/ (apply online); corroborated via multiple independent WebSearch results referencing the same PO Box 2381 / careerjobs2381 batch and 31 August 2026 closing date (e.g. https://eduhire.blog/paec-jobs-2026-po-box-2381-15-categories/ , https://iwork4sindh.com.pk/atomic-energy-jobs/ , https://paperpk-jobs.com/careerjobs2381-jobs-2026/). NOTE: direct WebFetch to careerjobs2381.com.pk and all secondary sources was blocked by this session's network egress policy; details corroborated via multiple independent WebSearch results (specific technical wording — Python, ISO 27001, penetration testing — appeared consistently across separate queries) rather than a direct primary-source fetch — re-verify exact post title and qualification wording on the site before relying on this for application timing.
+
 ## 2026-08-24 - NCCIA (National Cyber Crime Investigation Agency) - Assistant Director Forensic
 - Grade: BPS-17 (03 posts)
 - Location: Islamabad (NCCIA is a federal agency, successor to the FIA Cybercrime Wing; headquartered Islamabad, with regional offices nationwide)
