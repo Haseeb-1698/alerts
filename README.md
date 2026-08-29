@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 28 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 29 August 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [lissy93/web-check](https://github.com/lissy93/web-check)
-**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
+### 1. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+**AI Security**  ·  ⏱ Half day  ·  📊 Advanced
 
-All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
+Fully autonomous AI agents that perform penetration testing. Read the design; it's the frontier of where your Fathom-style work could go next.
 
-### 2. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-**DevSecOps**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [joey-melo/payloads](https://github.com/joey-melo/payloads)
+**AI Security**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Scans containers/IaC/code for vulns, misconfigs and secrets. Plugs straight into your Bytewise DevSecOps experience — add it to a CI pipeline and screenshot the findings.
+A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
 
-### 3. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
-**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 3. [amlweems/xzbot](https://github.com/amlweems/xzbot)
+**Malware/RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
+Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-08-28 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-08-29 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
