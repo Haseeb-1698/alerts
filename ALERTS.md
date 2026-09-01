@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-09-01 - Punjab Public Service Commission (PPSC) - Database Administrator
+- Grade: BS-17 (02 posts)
+- Location: Lahore, Punjab (outside candidate's preferred cities, but flagged per profile allowance for any genuinely BPS-17+ role he is plausibly eligible for)
+- Deadline to apply: 03 September 2026
+- Qualification/experience: Master's in CS/IT or 4-year Bachelor's degree, with 3 years' experience — satisfies the "5 years or less" rule for non-PAEC organizations. Part of PPSC Advertisement No. 08/2026 (published ~18 August 2026, multiple Punjab Govt departments, 498 vacancies total), the same advertisement as the already-logged BISE Faisalabad Computer Programmer post. Database Administrator is a genuine IT-relevant match for the candidate's Python/development and cloud/security background, though not a core cyber-security title.
+- Source: www.ppsc.gop.pk (PPSC Advertisement No. 08/2026); corroborated via two independent aggregator write-ups citing the same figures (02 posts, BS-17, Master's CS/IT or 4-yr Bachelor's + 3 yrs experience, Lahore, deadline 03 September 2026): https://www.reviewpakistanijobs.com/2026/08/ppsc-jobs-2026-advertisement-no082026.html and https://www.jobbazaar.info/2026/08/latest-ppsc-jobs-2026-advertisement-no.html . NOTE: direct WebFetch to ppsc.gop.pk and both aggregator sites was blocked by this session's network egress policy; details corroborated via WebSearch only, not a direct primary-source fetch — re-verify exact department and qualification wording on ppsc.gop.pk before relying on this for application timing.
+
 ## 2026-08-27 - careerjobs2381 (PAEC strategic front) - IT (Cyber Security)
 - Grade/Package: 'Assistant Manager'-tier IT post (~BPS-17-equivalent) on the same careerjobs2381 Public Notice batch as the already-logged Assistant Manager (Computer Engineering) and IT (Oracle Developer) posts, Rs. 130,000-140,000/- per month, contract basis (extendable on performance)
 - Location: Taxila / Karachi (Taxila is directly adjacent to candidate's home base of Wah Cantt)
