@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 04 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 05 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [joey-melo/payloads](https://github.com/joey-melo/payloads)
-**AI Security**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 1. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
 
-A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
+30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
 
-### 2. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+**AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
 
-A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
+Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
 
-### 3. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 3. [usestrix/strix](https://github.com/usestrix/strix)
+**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
 
-Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
+Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-09-04 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-09-05 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
