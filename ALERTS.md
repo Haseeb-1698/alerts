@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-09-09 - NCCIA (National Cyber Crime Investigation Agency) - Assistant Director Forensic [DEADLINE EXTENDED]
+- Grade: BPS-17 (03 posts)
+- Location: Islamabad (NCCIA federal agency; regional offices nationwide)
+- Deadline to apply: 14 September 2026 (EXTENDED from the originally-logged 07 September 2026 — Federal Interior Minister announced a blanket one-week extension for all Islamabad Police and NCCIA recruitment posts, apply online via www.npftas.pk)
+- Qualification/experience: Same posting as the 2026-08-24 entry below (Bachelor's/Master's in Digital Forensics / Cyber Security / Computer Science / IT, HEC-recognized; direct match to candidate's BS Cyber Security + digital-forensics skill set and eJPT/ISC2 CC/ISO 27001 certifications); only the deadline has changed, so this entry is logged as an update rather than a duplicate. Age limit 22-35 (+5 yrs relaxation). Exact per-post years-of-experience figure still not independently confirmed, but as a large first-intake direct-recruitment test-based drive it plausibly satisfies the "5 years or less" rule for non-PAEC organizations.
+- Source: https://www.npftas.pk (official apply portal); deadline extension corroborated via https://propakistani.pk/2026/09/07/islamabad-police-and-nccia-job-deadline-extended/ , https://arynews.tv/deadline-for-jobs-in-islamabad-police-and-nccia-extended , https://bloompakistan.com/nccia-jobs-2026-deadline-extended-september-14/ . NOTE: direct WebFetch to npftas.pk, nccia.gov.pk and propakistani.pk was blocked by this session's network egress policy; corroborated via multiple independent WebSearch results only, not a direct primary-source fetch.
+
+## 2026-09-09 - NCCIA (National Cyber Crime Investigation Agency) - Assistant Director Investigation [DEADLINE EXTENDED]
+- Grade: BPS-17 (31 posts)
+- Location: Islamabad (NCCIA federal agency; regional offices nationwide)
+- Deadline to apply: 14 September 2026 (EXTENDED from the originally-logged 07 September 2026 — Federal Interior Minister announced a blanket one-week extension for all Islamabad Police and NCCIA recruitment posts, apply online via www.npftas.pk)
+- Qualification/experience: Same posting as the 2026-08-24 entry below (Bachelor's/Master's in Cyber Security / Computer Science / IT / Forensics or related, HEC-recognized, for the technical/investigation cadre; strong match to candidate's BS Cyber Security + offensive-security/pentesting/forensics background); only the deadline has changed, so this entry is logged as an update rather than a duplicate. Age limit 22-35 (+5 yrs relaxation). Exact per-post years-of-experience figure still not independently confirmed, but as a large first-intake direct-recruitment test-based drive it plausibly satisfies the "5 years or less" rule for non-PAEC organizations.
+- Source: https://www.npftas.pk (official apply portal); deadline extension corroborated via https://propakistani.pk/2026/09/07/islamabad-police-and-nccia-job-deadline-extended/ , https://arynews.tv/deadline-for-jobs-in-islamabad-police-and-nccia-extended , https://bloompakistan.com/nccia-jobs-2026-deadline-extended-september-14/ . NOTE: direct WebFetch to npftas.pk, nccia.gov.pk and propakistani.pk was blocked by this session's network egress policy; corroborated via multiple independent WebSearch results only, not a direct primary-source fetch.
+
 ## 2026-09-01 - Punjab Public Service Commission (PPSC) - Database Administrator
 - Grade: BS-17 (02 posts)
 - Location: Lahore, Punjab (outside candidate's preferred cities, but flagged per profile allowance for any genuinely BPS-17+ role he is plausibly eligible for)
