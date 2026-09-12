@@ -1,5 +1,47 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-09-12 - Punjab Information Technology Board (PITB) - Assistant Manager (VA & PT)
+- Grade: PPS-7 (PITB Advertisement Code MPO10-2026; PPS-7 not independently pinned down for this exact title on the primary portal, but is the consistent grade for PITB "Assistant Manager" titles in this and prior batches — meets the PPS-07/BPS-17-equivalent floor)
+- Location: Lahore (PITB, contract basis; may include assignments elsewhere in Punjab)
+- Deadline to apply: 17 September 2026
+- Qualification/experience: 16 years' education in CS/IT/Information Security or related field. Exact per-post years-of-experience figure not independently confirmed, but this is a sibling "Assistant Manager" post in the same advertisement code (MPO10-2026) as the Assistant Manager (Information Security) post below, which is confirmed at 4 years — plausibly satisfies the "5 years or less" rule for non-PAEC organizations on that basis. Vulnerability Assessment & Penetration Testing (VA&PT) is an exceptionally direct match to the candidate's eJPT/CRTOM offensive-security/penetration-testing specialization.
+- Source: WebSearch-corroborated only (techjuice.pk/pitb-jobs-2026-multiple-contract-based-tech-roles-announced-in-punjab, governmentjob.pk/jobs/pitb-jobs-2026, jobbazaar.info); apply at https://jobs.punjab.gov.pk/. NOTE: direct WebFetch to jobs.punjab.gov.pk and every secondary aggregator was blocked by this session's network egress policy — re-verify exact grade and experience figure on the primary portal before relying on this for application timing.
+
+## 2026-09-12 - Punjab Information Technology Board (PITB) - Assistant Manager (Information Security)
+- Grade: PPS-7 (PITB Advertisement Code MPO10-2026; not independently pinned down for this exact title/batch, but consistent with PITB's standard "Assistant Manager" grading — meets the PPS-07/BPS-17-equivalent floor)
+- Location: Lahore (PITB, contract basis; may include assignments elsewhere in Punjab)
+- Deadline to apply: 17 September 2026
+- Qualification/experience: 16 years' education in CS/Information Security/IT or related field; minimum 4 years' professional experience in information security/cybersecurity or related domains — satisfies the "5 years or less" rule for non-PAEC organizations. Direct title match to candidate's cyber-security profile and ISO 27001/eJPT/ISC2 CC certifications.
+- Source: WebSearch-corroborated only (techjuice.pk/pitb-jobs-2026-multiple-contract-based-tech-roles-announced-in-punjab); apply at https://jobs.punjab.gov.pk/. NOTE: direct WebFetch to jobs.punjab.gov.pk was blocked by this session's network egress policy — re-verify exact grade on the primary portal before relying on this for application timing.
+
+## 2026-09-12 - Directorate General of Industries, Punjab - DevOps Engineer
+- Grade: PPS-8
+- Location: Lahore (ADP project: "Establishment of Industrial Planning & Analysis Cell at Directorate General of Industries, Punjab")
+- Deadline to apply: 22 September 2026
+- Qualification/experience: 16 years' education in CS/IT/Software Engineering; 5 years' relevant experience — sits exactly at the "5 years or less" cap for non-PAEC organizations. Advertisement requires strong knowledge of database development, cybersecurity, and advanced security issues — a reasonable match to the candidate's DevSecOps/cloud-security skill set.
+- Source: WebSearch-corroborated only (hiringalert.co/2026/09/Industries-Department-Punjab-Latest-Jobs-in-Punjab.html); apply at https://jobs.punjab.gov.pk/. NOTE: direct WebFetch to jobs.punjab.gov.pk and hiringalert.co was blocked by this session's network egress policy — re-verify on the primary portal before relying on this for application timing.
+
+## 2026-09-12 - Directorate General of Industries, Punjab - Network Security Engineer (4 posts)
+- Grade: Not independently confirmed (likely PPS-7, inferred from the sibling PPS-8 DevOps Engineer post in the same batch — re-verify on the primary portal)
+- Location: Lahore (same Directorate General of Industries batch as the DevOps Engineer post above)
+- Deadline to apply: 22 September 2026
+- Qualification/experience: 16 years' education in CS/IT/Telecom; CCNA preferred; 3 years' relevant experience — satisfies the "5 years or less" rule for non-PAEC organizations. Good adjacent match to the candidate's networking/offensive-security background.
+- Source: WebSearch-corroborated only (hiringalert.co/2026/09/Industries-Department-Punjab-Latest-Jobs-in-Punjab.html); apply at https://jobs.punjab.gov.pk/. NOTE: direct WebFetch to jobs.punjab.gov.pk and hiringalert.co was blocked by this session's network egress policy; grade not independently confirmed — re-verify on the primary portal before relying on this for application timing.
+
+## 2026-09-12 - Punjab Rural Municipal Services Company (PRMSC) - Manager Software Development
+- Grade: PPS-8
+- Location: Lahore (PRMSC HQ; World Bank-funded Punjab Rural Sustainable Water Supply & Sanitation Project)
+- Deadline to apply: 21 September 2026
+- Qualification/experience: 5 years' relevant experience in software development, MIS, database administration — sits exactly at the "5 years or less" cap for non-PAEC organizations. Adjacent match to the candidate's Python/development background; not a core cyber-security title, flagged per profile allowance for "any genuinely BPS-17+ role he is plausibly eligible for."
+- Source: WebSearch-corroborated only (hiringalert.co, careerjoin.com, jobustad.com); apply at https://jobs.punjab.gov.pk/. NOTE: direct WebFetch to jobs.punjab.gov.pk and all secondary sources was blocked by this session's network egress policy — re-verify on the primary portal before relying on this for application timing.
+
+## 2026-09-12 - Aquaculture & Fisheries Department, Government of Punjab - Assistant Manager IT
+- Grade: PPS-7 (confirmed via jobs.punjab.gov.pk job-detail page title indexed in search results: "assistant-manager-it-pps-7")
+- Location: Punjab (department HQ, likely Lahore)
+- Deadline to apply: 21 September 2026
+- Qualification/experience: 3 years' relevant experience in IT (software/hardware/MIS/database administration) — satisfies the "5 years or less" rule for non-PAEC organizations. General IT role rather than cyber-security-specific; flagged per profile allowance for "any genuinely BPS-17+ role he is plausibly eligible for."
+- Source: job-detail page title indexed at https://jobs.punjab.gov.pk/new_recruit/job_detail/assistant-manager-it-pps-7 (direct WebFetch blocked by this session's network egress policy, grade taken from the indexed page title/URL slug itself rather than a rendered fetch) — re-verify full details on the primary portal before relying on this for application timing.
+
 ## 2026-09-11 - Punjab Land Records Authority (PLRA) - Assistant Director, Security Operations / Incident Response (SOC & Digital Forensics)
 - Grade: 'Assistant Director' (PLRA contract scale, ~BPS-17-equivalent; age bracket 24-34, consistent with the already-logged 2026-08-09 PLRA Assistant Director entry)
 - Location: PLRA Headquarters, Lahore (outside candidate's primary target cities, but flagged per profile allowance for "any genuinely BPS-17+ role he is plausibly eligible for")
