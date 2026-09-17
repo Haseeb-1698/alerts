@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Wednesday, 16 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Thursday, 17 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
+> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### 1. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+**AI Foundations**  ·  ⏱ 2-3 weeks  ·  📊 Intermediate
+
+Build a ChatGPT-like LLM in PyTorch step by step. Deepens the AI half of your AI-security identity — understanding LLM internals makes you far better at attacking/defending them.
+
+### 2. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 **Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
 
 Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
 
-### 2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
+### 3. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
-
-### 3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-**DevSecOps**  ·  ⏱ 1 evening  ·  📊 Intermediate
-
-Scans containers/IaC/code for vulns, misconfigs and secrets. Plugs straight into your Bytewise DevSecOps experience — add it to a CI pipeline and screenshot the findings.
+Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-09-16 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-09-17 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
