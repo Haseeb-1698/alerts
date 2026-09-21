@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-09-21 - NACTA (National Counter Terrorism Authority) - Junior Analyst (AI) / Jr. Data Scientist
+- Grade: BS-17 (14 contract-based posts total across both titles), contract basis (initial 6 months, strong likelihood of becoming permanent based on performance)
+- Location: Islamabad (NACTA Headquarters, Khayaban-e-Suhrawardy, G-7/1)
+- Deadline to apply: 02 October 2026
+- Qualification/experience: 16 years' education (BS-Hons/Master's) in Computer Science, Cyber Security, Information Security, Digital Forensics, Data Science, Software Engineering, Artificial Intelligence, or equivalent (HEC-recognized) — a direct match to candidate's BS Cyber Security degree. No stated minimum years-of-experience requirement was found; sources describe only a "preference" for experience in OSINT/SOCMINT/GEOINT/Threat Intelligence or AI/predictive-modelling skills, not a hard years gate — satisfies the "5 years or less" rule for non-PAEC organizations. This is a distinct new posting from the already-logged 2026-08-11 NACTA "Assistant Director" BPS-17 entry (different title, different batch, different deadline).
+- Source: https://njp.gov.pk (National Job Portal — apply online only) and https://nacta.gov.pk/jobs/ (official NACTA jobs page); corroborated via multiple independent WebSearch results converging on the same BS-17 grade, qualification wording, and 02-10-2026 deadline (e.g. https://www.eduvision.edu.pk/edu_news/national-counter-terrorism-authority-nacta-announces-analyst-data-scientist-jobs-jn-6761 , https://www.jobbazaar.info/2026/09/nacta-jobs-2026-apply-online-national.html , https://www.careerjoin.com/national-counter-terrorism-authority-nacta-jobs-september-2026/). NOTE: direct WebFetch to njp.gov.pk, nacta.gov.pk and every aggregator above was blocked by this session's network egress policy; corroborated via multiple independent WebSearch results only, not a direct primary-source fetch — re-verify exact job ID, experience clause and age limit on njp.gov.pk before relying on this for application timing.
+
 ## 2026-09-19 - Pakistan Army ICTO (Information & Communication Technology Officer) - Direct Short Service Commission (DSSC)
 - Grade: Commissioned as Captain after 6 months' training at PMA Kakul (~BPS-18-equivalent) — secondary-watch item per profile rules
 - Location: Nationwide registration via joinpakarmy.gov.pk / Army Selection & Recruitment Centres; posting nationwide after commissioning
