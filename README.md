@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Tuesday, 22 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Wednesday, 23 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
+> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
-**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
+### 1. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
 
-30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
+The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
 
-### 2. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
-**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
+### 2. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
+Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
 
-### 3. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 3. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
 
-Purpose-built to red-team/pentest LLMs, RAGs and agents. This is the tool you'd use to attack your own Fathom project. Set up one config and run adversarial tests against a prompt.
+Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-09-22 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-09-23 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
