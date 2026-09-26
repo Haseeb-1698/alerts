@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 25 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 26 September 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 1. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
+**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
 
-Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
+A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
 
-### 2. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
-**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
+### 2. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
 
-The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
+30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
 
-### 3. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
+### 3. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
+Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-09-25 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-09-26 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
