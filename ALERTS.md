@@ -1,5 +1,19 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-10-01 - PKCERT / NTISB (Cyber Security for Digital Pakistan, Phase-I) - SOC Analyst L2
+- Grade: PPS-08 (~BPS-18-equivalent), 2 posts, contract basis
+- Location: Islamabad
+- Deadline to apply: 12 October 2026 (posted 27 September 2026; Advertisement No. 5/2026 of the Ministry of IT & Telecommunications)
+- Qualification/experience: 16 years' education (Bachelor's) in Cybersecurity, Information Security, Computer Science or related field; minimum 4 years' experience, including 2 years recent experience as a SOC analyst — satisfies the "5 years or less" rule for non-PAEC organizations. Responsibilities include deep-dive investigations, root-cause analysis, threat hunting, malware analysis, SIEM rule tuning, and incident-response coordination — a very close direct match to candidate's malware-analysis/digital-forensics/offensive-security skill set and eJPT/ISC2 CC/CRTOM certifications. Max age 35 (incl. relaxation). Part of a larger 14-post "Cyber Security for Digital Pakistan, Phase-I" batch (Director FCERT PPS-11 down to Office Assistant PPS-05); only the SOC Analyst L1/L2 titles below were independently confirmed at <=5 years experience — other technical titles in the batch (SOC Analyst L3, Incident Responder, SIEM Engineer, Assistant/Deputy Director posts) were not confirmed to meet the experience cap and are not logged.
+- Source: https://njp.gov.pk/jobs/9766 (National Job Portal; PKCERT/NTISB project posting, Advertisement No. 5/2026); corroborated via https://propakistani.pk/2026/09/30/it-ministry-announces-new-jobs-under-digital-pakistan-project/ and multiple independent WebSearch results converging on identical PPS grade, experience figure, and deadline. NOTE: direct WebFetch to njp.gov.pk, pkcert.gov.pk, and propakistani.pk was blocked by this session's network egress policy; corroborated via WebSearch only, not a direct primary-source fetch — re-verify exact job ID and experience clause on njp.gov.pk before relying on this for application timing.
+
+## 2026-10-01 - PKCERT / NTISB (Cyber Security for Digital Pakistan, Phase-I) - SOC Analyst L1
+- Grade: PPS-07 (~BPS-17-equivalent), 2 posts, contract basis
+- Location: Islamabad
+- Deadline to apply: 12 October 2026 (posted 27 September 2026; Advertisement No. 5/2026 of the Ministry of IT & Telecommunications)
+- Qualification/experience: 16 years' education (Bachelor's) in Cybersecurity, Information Security, Computer Science or related field; minimum 4 years' experience, including 2 years recent experience as a SOC analyst — satisfies the "5 years or less" rule for non-PAEC organizations. Same batch and skill set as the sibling SOC Analyst L2 post above (SOC operations, malware analysis, incident response) — a very close direct match to candidate's eJPT/ISC2 CC/CRTOM background. Max age 30 (incl. relaxation).
+- Source: https://njp.gov.pk/jobs/9769 (National Job Portal; PKCERT/NTISB project posting, Advertisement No. 5/2026); corroborated via https://propakistani.pk/2026/09/30/it-ministry-announces-new-jobs-under-digital-pakistan-project/ and multiple independent WebSearch results. NOTE: direct WebFetch to njp.gov.pk, pkcert.gov.pk, and propakistani.pk was blocked by this session's network egress policy; corroborated via WebSearch only, not a direct primary-source fetch — re-verify exact job ID and experience clause on njp.gov.pk before relying on this for application timing.
+
 ## 2026-09-27 - NACTA (National Counter Terrorism Authority) - Junior Analyst (Technical Investigation)
 - Grade: BS-17 (1 post; part of the same 14-post NACTA Junior Analyst/Data Scientist batch as the already-logged 2026-09-21 entry, but a distinct post title not previously logged)
 - Location: Islamabad (NACTA Headquarters)
