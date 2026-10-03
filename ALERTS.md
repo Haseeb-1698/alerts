@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-10-03 - NTISB / Ministry of IT & Telecommunications (Cyber Security for Digital Pakistan, Phase-I) - Network Engineer
+- Grade: PPS-07 (~BPS-17-equivalent), 1 post, contract basis
+- Location: Islamabad
+- Deadline to apply: 12 October 2026 (posted 27 September 2026; same Advertisement No. 5/2026 batch as the already-logged SOC Analyst L1/L2 entries from 2026-10-01; max age 30)
+- Qualification/experience: 16 years' education (Bachelor's/Master's) in IT, Electrical Engineering, or Electronics/Telecom Engineering (HEC-recognized); approximately 3 years' experience in design, installation and maintenance of LAN/WAN at a reputable organization — satisfies the "5 years or less" rule for non-PAEC organizations. General networking role rather than core cyber-security/offensive-security, but a reasonable adjacent match to candidate's networking background; flagged per profile allowance for "any genuinely BPS-17+ role he is plausibly eligible for." Distinct post from the sibling SOC Analyst L1 (PPS-07) and SOC Analyst L2 (PPS-08) posts in the same ad, which were already logged on 2026-10-01 — this is a new, previously-unlogged title in the batch. NOTE: the "System/Network Penetration Tester" (PPS-07, njp.gov.pk/jobs/9434) title also surfaced during this run but was independently verified via WebSearch to be a separate, older NTISB posting with an already-expired 03 August 2026 deadline — not part of this Oct 2026 batch, and correctly excluded.
+- Source: https://njp.gov.pk (National Job Portal, Advertisement No. 5/2026 of the Ministry of IT & Telecommunications); corroborated via https://propakistani.pk/2026/09/30/it-ministry-announces-new-jobs-under-digital-pakistan-project/ (position list explicitly confirms "Network Engineer (PPS-07): 1 position, Maximum Age 30 years" in the same ad as SOC Analyst L1/L2/L3 and Deputy Director SOC). NOTE: direct WebFetch to njp.gov.pk and propakistani.pk was blocked by this session's network egress policy; corroborated via multiple independent WebSearch results only, not a direct primary-source fetch — re-verify exact job ID and experience clause on njp.gov.pk before relying on this for application timing.
+
 ## 2026-10-01 - PKCERT / NTISB (Cyber Security for Digital Pakistan, Phase-I) - SOC Analyst L2
 - Grade: PPS-08 (~BPS-18-equivalent), 2 posts, contract basis
 - Location: Islamabad
