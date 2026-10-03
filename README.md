@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 02 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 03 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
-**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
+### 1. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
+Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
 
-### 2. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
+### 2. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
+Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
 
-### 3. [lissy93/web-check](https://github.com/lissy93/web-check)
-**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
+### 3. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
 
-All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
+30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-02 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-03 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
