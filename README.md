@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Sunday, 04 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Monday, 05 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
+> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 1. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
 
-Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
+The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
 
-### 2. [usestrix/strix](https://github.com/usestrix/strix)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
+### 2. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
+A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
 
-### 3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-**AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
+### 3. [google/magika](https://github.com/google/magika)
+**Malware/Forensics**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
+AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-04 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-05 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
