@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Thursday, 08 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Friday, 09 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
+> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
-**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
+### 1. [joey-melo/payloads](https://github.com/joey-melo/payloads)
+**AI Security**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
+A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
 
-### 2. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
+### 2. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
+Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
 
-### 3. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 3. [amlweems/xzbot](https://github.com/amlweems/xzbot)
+**Malware/RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
+Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-08 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-09 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
