@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Thursday, 15 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Friday, 16 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
+> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+**CS Foundations**  ·  ⏱ Long-term  ·  📊 Beginner
 
-Industry-standard vulnerability scanner. The real skill is writing your own YAML templates — a genuinely valued, resume-worthy ability. Spend a session writing one custom template for a known CVE.
+Complete CS study plan. Not security-specific, but strengthens the DSA/systems base that technical interviews (and harder security work) rest on. Dip in when you want fundamentals.
 
-### 2. [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
 
-A Windows-based penetration-testing environment. Most pentest tooling assumes Linux — knowing the Windows attacker toolkit widens your range.
+18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
 
-### 3. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
+**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
 
-Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
+Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-15 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-16 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
