@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 16 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 17 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-**CS Foundations**  ·  ⏱ Long-term  ·  📊 Beginner
+### 1. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
+**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
 
-Complete CS study plan. Not security-specific, but strengthens the DSA/systems base that technical interviews (and harder security work) rest on. Dip in when you want fundamentals.
+Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
 
-### 2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
+### 2. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+**AI Security**  ·  ⏱ Half day  ·  📊 Advanced
 
-18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
+Fully autonomous AI agents that perform penetration testing. Read the design; it's the frontier of where your Fathom-style work could go next.
 
-### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
-**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+### 3. [amlweems/xzbot](https://github.com/amlweems/xzbot)
+**Malware/RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
+Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-16 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-17 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
