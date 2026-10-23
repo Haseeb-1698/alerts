@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Thursday, 22 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Friday, 23 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
+> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-**AI Foundations**  ·  ⏱ 2-3 weeks  ·  📊 Intermediate
+### 1. [mxrch/GHunt](https://github.com/mxrch/GHunt)
+**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
 
-Build a ChatGPT-like LLM in PyTorch step by step. Deepens the AI half of your AI-security identity — understanding LLM internals makes you far better at attacking/defending them.
+Offensive Google-account OSINT framework. Great hands-on OSINT practice — the exact recon/OSINT phase the TISS Pentest Trainee posting lists. Run it against a throwaway account you control.
 
-### 2. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
-**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
+### 2. [joey-melo/payloads](https://github.com/joey-melo/payloads)
+**AI Security**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
+A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
 
-### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
-**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+### 3. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
 
-Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
+The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-22 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-23 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
