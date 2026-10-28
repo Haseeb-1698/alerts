@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Tuesday, 27 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Wednesday, 28 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
+> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-**Offensive**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 1. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
+**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
 
-Industry-standard vulnerability scanner. The real skill is writing your own YAML templates — a genuinely valued, resume-worthy ability. Spend a session writing one custom template for a known CVE.
+Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
 
-### 2. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-**AI Security**  ·  ⏱ Half day  ·  📊 Advanced
+### 2. [usestrix/strix](https://github.com/usestrix/strix)
+**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
 
-Fully autonomous AI agents that perform penetration testing. Read the design; it's the frontier of where your Fathom-style work could go next.
+Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
 
-### 3. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-**Build to Learn**  ·  ⏱ Per project  ·  📊 Intermediate
+### 3. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Recreate real technologies from scratch (a shell, a Docker, a database...). Perfect for your build-it-to-understand-it personality. Pick one that touches security (build your own firewall/proxy).
+Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-27 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-28 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
