@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Wednesday, 28 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Thursday, 29 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
+> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
-**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
+### 1. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
+IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.
 
-### 2. [usestrix/strix](https://github.com/usestrix/strix)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
+### 2. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
+**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
 
-Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
+Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
 
-### 3. [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
+### 3. [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+**Threat Intel**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-Find a person's profile across 1000+ social sites. People-OSINT practice — useful for red-team recon and understanding your own digital footprint.
+Curated collection of dark-web CTI sources. Ties directly to your SOCRadar Dark Web Monitoring cert — study the sources, understand how threat intel is gathered.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
+### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
 
-The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
+The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-28 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-10-29 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
