@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Saturday, 31 October 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Sunday, 01 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
+> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
+### 1. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
+
+The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
+
+### 2. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
 **API Security**  ·  ⏱ Half day  ·  📊 Intermediate
 
 Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
 
-### 2. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [amlweems/xzbot](https://github.com/amlweems/xzbot)
+**Malware/RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
-
-### 3. [laramies/theHarvester](https://github.com/laramies/theHarvester)
-**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
-
-Classic recon tool: emails, subdomains, hostnames. Foundational for the reconnaissance stage of any pentest. Learn the flags, run it on a domain you own.
+Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-10-31 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-01 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
