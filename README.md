@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Monday, 02 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Tuesday, 03 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
+> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [amlweems/xzbot](https://github.com/amlweems/xzbot)
-**Malware/RE**  ·  ⏱ Half day  ·  📊 Advanced
+### 1. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Notes, honeypot & exploit demo for the xz backdoor (CVE-2024-3094) — one of the most important supply-chain attacks ever. Read it to understand real-world backdoor tradecraft.
+Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
 
-### 2. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
 
-Purpose-built to red-team/pentest LLMs, RAGs and agents. This is the tool you'd use to attack your own Fathom project. Set up one config and run adversarial tests against a prompt.
+18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
 
-### 3. [google/magika](https://github.com/google/magika)
-**Malware/Forensics**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [laramies/theHarvester](https://github.com/laramies/theHarvester)
+**OSINT**  ·  ⏱ 1 hour  ·  📊 Beginner
 
-AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.
+Classic recon tool: emails, subdomains, hostnames. Foundational for the reconnaissance stage of any pentest. Learn the flags, run it on a domain you own.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-02 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-03 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
