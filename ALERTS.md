@@ -1,5 +1,12 @@
 # PAEC / NESCOM / FPSC / NJP / Punjab / Army-ICTO / PAC Kamra Job Alerts
 
+## 2026-11-07 - Punjab School Education Department (PMIU-PESRP / ASPIRE Project) - DevOps Engineer + Cyber Security
+- Grade: PPS-10 (project pay scale; consistent with this watch's PPS-07→BPS-17/PPS-08→BPS-18 mapping convention, PPS-10 sits well above the BPS-17+ floor), 1 post, contract basis
+- Location: Lahore (PMIU-PESRP office, Link/Wahdat Road)
+- Deadline to apply: 8 November 2026 (apply online at jobs.pesrp.edu.pk)
+- Qualification/experience: 16 years' education (BS-Hons/Master's) in Computer Science, Information Technology, AI or related field; Certified DevOps Engineer qualification preferred; 5 years' relevant experience required — sits exactly at the "5 years or less" cap for non-PAEC organizations, so it qualifies. Strong direct skills match to candidate's DevSecOps/cloud-security background. Two sibling posts in the same batch (Software Team Lead, Database Administrator, also PPS-10) were investigated but not logged as a weaker skills match — re-check jobs.pesrp.edu.pk if broader logging is wanted on a future run.
+- Source: https://propakistani.pk/2026/10/26/punjab-school-education-department-announces-it-jobs/ , https://www.techjuice.pk/punjab-school-education-department-announces-8-it-jobs/ ; apply at https://jobs.pesrp.edu.pk/. NOTE: direct WebFetch to propakistani.pk, techjuice.pk, and jobs.pesrp.edu.pk was blocked by this session's network egress policy (same DNS-level block affecting job-portal domains noted throughout this file); corroborated via multiple independent WebSearch results converging on the same PPS-10 grade, 5-year experience figure, and 8 November 2026 deadline, not a direct primary-source fetch — given the imminent deadline, re-verify directly on jobs.pesrp.edu.pk before relying on this for application timing.
+
 ## 2026-11-03 - NESCOM (via techandresearch.com recruitment portal) - Assistant Manager (IT / Software)
 - Grade/Package: 'Assistant Manager' tier (~BPS-17-equivalent, consistent with NESCOM/PAEC's established "Assistant Manager" strategic-front grading used across the already-logged careerjobs1737/careerjobs2381 batches), reported ~Rs. 180,000/- per month, contract basis
 - Location: Karachi (one source); a companion listing covering the same November 2026 batch cites Islamabad/Karachi/Sindh stations for its Assistant Manager/Computer Operator/Technician posts
