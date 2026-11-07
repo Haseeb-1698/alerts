@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 06 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 07 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 1. [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+**Cloud/DevSecOps**  ·  ⏱ 30 days  ·  📊 Beginner
 
-Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
+30-day hands-on AWS DevOps path. Reinforces your AWS Academy cert with practical projects — useful for cloud-security roles and your DevSecOps story.
 
-### 2. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
-**AI Security**  ·  ⏱ 1 evening  ·  📊 Intermediate
+### 2. [mxrch/GHunt](https://github.com/mxrch/GHunt)
+**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
 
-Purpose-built to red-team/pentest LLMs, RAGs and agents. This is the tool you'd use to attack your own Fathom project. Set up one config and run adversarial tests against a prompt.
+Offensive Google-account OSINT framework. Great hands-on OSINT practice — the exact recon/OSINT phase the TISS Pentest Trainee posting lists. Run it against a throwaway account you control.
 
-### 3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-**AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
+### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
+**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
 
-Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
+Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-06 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-07 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
