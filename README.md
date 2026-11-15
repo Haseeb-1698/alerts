@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Saturday, 14 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Sunday, 15 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
+> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+### 1. [usestrix/strix](https://github.com/usestrix/strix)
+**AI Security**  ·  ⏱ 1 evening  ·  📊 Advanced
+
+Open-source AI pentesting agent that finds & fixes app vulns. Study how an autonomous AI pentester is architected — exactly the AI+offensive niche you keep starring.
+
+### 2. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 **AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
 
 Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
 
-### 2. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
-**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
+### 3. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
 
-A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
-
-### 3. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-**AI Agents**  ·  ⏱ 2 weeks  ·  📊 Beginner
-
-18 structured lessons on building AI agents. Turns your 116 starred agent repos into actual buildable skill — the foundation for AI-driven security automation.
+The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-14 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-15 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
