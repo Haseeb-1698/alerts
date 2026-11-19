@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Wednesday, 18 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Thursday, 19 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
+> 💡 **Tip of the day:** Pair a tool with a lab (DVWA, JuiceShop, your own VM). Never test on systems you don't own.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
+### 1. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
+**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
 
-The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
+Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
 
-### 2. [joey-melo/payloads](https://github.com/joey-melo/payloads)
-**AI Security**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 2. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-A focused payload collection for AI red teaming. Pair with the AI-Red-Teaming-Guide anchor — concrete prompt-injection/jailbreak payloads to try against Fathom.
+Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
 
-### 3. [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
-**AI + OSINT**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+**DevSecOps**  ·  ⏱ 1 evening  ·  📊 Intermediate
 
-AI-powered dark-web OSINT tool. Combines your two biggest star clusters — AI agents + threat intel. Study how it drives OSINT with an LLM.
+Scans containers/IaC/code for vulns, misconfigs and secrets. Plugs straight into your Bytewise DevSecOps experience — add it to a CI pipeline and screenshot the findings.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-18 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-19 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
