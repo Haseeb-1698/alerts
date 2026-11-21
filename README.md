@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Friday, 20 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Saturday, 21 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Your edge is AI + offensive security. When choosing between two repos, pick the one closer to that intersection.
+> 💡 **Tip of the day:** Finish one thing today rather than starting three. A completed small project outranks three half-explored repos.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 1. [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+**Hardening**  ·  ⏱ 1 weekend  ·  📊 Intermediate
 
-Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
+The definitive Linux hardening guide. Harden your own VM following it — both blue-team knowledge and something you'll reference for life.
 
-### 2. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-**AI Foundations**  ·  ⏱ 3-4 days  ·  📊 Beginner
+### 2. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
 
-Comprehensive prompt-engineering resource. Prompt mastery is the foundation of both building agentic security tools AND red-teaming them. Work through the core lessons.
+A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
 
-### 3. [lissy93/web-check](https://github.com/lissy93/web-check)
-**OSINT**  ·  ⏱ 1-2 hours  ·  📊 Beginner
+### 3. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
 
-All-in-one website OSINT/analysis tool. Self-host it in Docker and analyze a few sites — teaches you what an attacker sees about a target's surface.
+The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-20 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-21 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
