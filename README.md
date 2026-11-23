@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Sunday, 22 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Monday, 23 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Don't just read a repo — clone it, run it once, and write 3 lines on what it does. A repo you ran beats a repo you starred.
+> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
-**Advanced RE**  ·  ⏱ Half day  ·  📊 Advanced
+### 1. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
 
-A stealthy Linux kernel rootkit for modern kernels — authorized research only. Reading rootkit source teaches deep OS internals and defensive detection thinking. Study, don't deploy.
+The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
 
-### 2. [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 2. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+**CS Foundations**  ·  ⏱ Long-term  ·  📊 Beginner
 
-IaC security scanner (Terraform, K8s, etc.). Complements your IaC-security-validation internship bullet — scan a Terraform sample and read the failed checks.
+Complete CS study plan. Not security-specific, but strengthens the DSA/systems base that technical interviews (and harder security work) rest on. Dip in when you want fundamentals.
 
-### 3. [metlo-labs/metlo](https://github.com/metlo-labs/metlo)
-**API Security**  ·  ⏱ Half day  ·  📊 Intermediate
+### 3. [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+**AI + OSINT**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-Open-source API security platform. Directly relevant to your CAPIE (API hacking) cert and REST-API-security project — study how API attacks are detected/prevented.
+AI-powered dark-web OSINT tool. Combines your two biggest star clusters — AI agents + threat intel. Study how it drives OSINT with an LLM.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-**AI Security (YOUR GAP)**  ·  ⏱ 1-2 weeks  ·  📊 Intermediate
+### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
 
-The exact skill your CV is missing: security OF AI, not just AI for security. Adversarial testing, prompt injection, jailbreaks. Pair it with promptfoo and your Fathom project to produce a genuine AI red-team portfolio piece — directly strengthens the Confiz AI Security Engineer angle.
+817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-22 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-23 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
