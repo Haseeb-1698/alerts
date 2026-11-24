@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Monday, 23 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Tuesday, 24 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Every tool you actually use becomes a CV bullet. 'Familiar with X' is weak; 'used X to find Y' is strong.
+> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
-**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
+### 1. [google/magika](https://github.com/google/magika)
+**Malware/Forensics**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
+AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.
 
-### 2. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-**CS Foundations**  ·  ⏱ Long-term  ·  📊 Beginner
+### 2. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
+**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
 
-Complete CS study plan. Not security-specific, but strengthens the DSA/systems base that technical interviews (and harder security work) rest on. Dip in when you want fundamentals.
+Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
 
-### 3. [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
-**AI + OSINT**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 3. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
+**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
 
-AI-powered dark-web OSINT tool. Combines your two biggest star clusters — AI agents + threat intel. Study how it drives OSINT with an LLM.
+Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-**Two-for-one**  ·  ⏱ Ongoing reference  ·  📊 Intermediate
+### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
 
-817 cybersecurity skills mapped to MITRE ATT&CK and 5 other frameworks, packaged AS Claude AI-agent skills. You learn the security content AND how to structure security knowledge into agent skills — the exact intersection (AI + security) your 116 starred agent repos show you care about.
+A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-23 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-24 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
