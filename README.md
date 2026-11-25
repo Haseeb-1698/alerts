@@ -1,6 +1,6 @@
 # ☕ Haseeb's Daily Upskill Dashboard
 
-> **Tuesday, 24 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
+> **Wednesday, 25 November 2026** — open this with your morning coffee, do one thing, close the day better than you opened it.
 
 Auto-updates every morning. Your edge is **AI + offensive security** — everything here bends toward that. Job alerts live in [`ALERTS.md`](ALERTS.md).
 
@@ -9,37 +9,37 @@ Auto-updates every morning. Your edge is **AI + offensive security** — everyth
 ## 🎯 Today's goal
 Pick **ONE** repo below, clone it, run it once, and write 3 lines on what it does. Finishing one beats sampling three.
 
-> 💡 **Tip of the day:** Screenshot your work. A findings report or a terminal output is portfolio evidence recruiters can't argue with.
+> 💡 **Tip of the day:** Turn a session into a Medium/LinkedIn writeup. Public writeups are what turn self-study into interview callbacks.
 
 ---
 
 ## 🔥 Today's rotating picks
 *(3 fresh repos from your stars, reshuffled daily)*
 
-### 1. [google/magika](https://github.com/google/magika)
-**Malware/Forensics**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
+### 1. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+**DevSecOps**  ·  ⏱ 1-2 hours  ·  📊 Intermediate
 
-AI-powered file-type detection. Directly relevant to Fathom's static-analysis stage — study how ML classifies file content, consider wiring it into your own tooling.
+Finds & verifies leaked credentials in code/history. Run it on a few public repos — secret-scanning is a core DevSecOps and red-team skill.
 
-### 2. [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
-**Cloud Offensive**  ·  ⏱ Half day  ·  📊 Advanced
+### 2. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+**Threat Intel**  ·  ⏱ Half day  ·  📊 Intermediate
 
-Adversary emulation FOR the cloud — detonate real attack techniques in AWS. Bridges your AWS certs with offensive security. Powerful, do it in a sandbox account only.
+The open threat-intelligence platform. Spin it up in Docker — hands-on OpenCTI is a real resume line for the SOC/blue-team roles you're also eligible for.
 
-### 3. [Bert-JanP/Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
-**Threat Intel**  ·  ⏱ 1 evening  ·  📊 Beginner
+### 3. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+**AI Security**  ·  ⏱ Half day  ·  📊 Advanced
 
-Free, usable threat-intel feeds. Wire one into a small Python script that pulls IOCs — mini automation project that echoes your Fathom threat-intel-correlation work.
+Fully autonomous AI agents that perform penetration testing. Read the design; it's the frontier of where your Fathom-style work could go next.
 
 ---
 
 ## ⭐ Today's anchor spotlight
 *(one of your must-do long-haul repos, rotated in so it never gets forgotten)*
 
-### [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-**Study Plan**  ·  ⏱ 90 days (do 1 topic/day)  ·  📊 Beginner to Intermediate
+### [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+**Offensive Reference**  ·  ⏱ Lifelong reference (1 class/day)  ·  📊 Intermediate
 
-A structured 90-day cybersecurity roadmap. Skip the intro/fundamentals weeks (you have the BS) and jump to the offensive-security, threat-hunting, and network-security tracks. Finishing sections here = concrete, dateable resume lines.
+The single most-used web-pentest payload & bypass reference on GitHub. Clone it locally and keep it forever — you'll reach for it in every engagement, CTF, and the TISS Pentest assessment. Read one attack class (SQLi, XSS, SSRF...) per session and actually try it in a lab.
 
 ---
 
@@ -126,4 +126,4 @@ These are your backbone. Do a little every day; they're too big for one sitting.
 </details>
 
 ---
-<sub>Generated 2026-11-24 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
+<sub>Generated 2026-11-25 · rotates daily · edit <code>repos.json</code> to change the pool.</sub>
